@@ -22,7 +22,7 @@ I'm a passionate software developer with a love for open-source projects. I spec
 ## Projects
 
 - 🌟 [Face Detection](https://github.com/fanto237/face-detection-opencv): A webapps providing face detection on uploaded images using opencv.
-- 🛠️ [Homelab](https://github.com/fanto237/latex): A repo containing all preconfigured services i run on my homelab.
+- 🛠️ [Homelab](https://github.com/fanto237/homelab): A repo containing all preconfigured services i run on my homelab.
 
 ## GitHub Stats
 
